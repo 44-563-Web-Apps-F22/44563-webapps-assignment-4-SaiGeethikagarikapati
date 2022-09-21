@@ -42,3 +42,20 @@
         font-weight: bolder;
         font-size: 25px;
         }
+        table,th,td{
+            margin: 1px solid #ddd;
+            border-collapse: collapse;
+            width: 50%;
+        }
+        td{
+            padding: 8px;
+          }
+          tr:nth-child(even){background-color:#ddd;}
+        
+        th {
+            padding: 12px;
+            text-align: left;
+            background-color:aquamarine;
+            color: white;
+          }
+         
