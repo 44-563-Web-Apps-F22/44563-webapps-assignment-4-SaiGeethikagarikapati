@@ -58,4 +58,12 @@
             background-color:aquamarine;
             color: white;
           }
+          .name:hover{
+            border:2px solid black;
+            text-shadow: 5px 6px 10px blue; 
+            
+          }
+          .name{
+            padding: 5px;
+          }
          
