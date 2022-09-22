@@ -66,4 +66,21 @@
           .name{
             padding: 5px;
           }
-         
+          ul {
+            background-color: #4C275C;
+            display: flex;
+            padding: 10px;
+    
+        }
+        li{
+            list-style: none;
+            padding-right: 14px;
+        }
+        li a{
+            
+            color:antiquewhite;
+            text-decoration: none;
+        }
+        li a:hover{
+            color:#ddd;
+        }
